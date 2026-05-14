@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Algorithm Knows"
+excerpt: "A branching essay about Lumina, a fictional productivity app, and the quiet ways we surrender more than we mean to. Built in Twine"
 collection: portfolio
 ---
 
