@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/fujael.jpeg"
   name             : "Fujael Ahmed"
   pronouns         : "he/him"  
   bio              : "Digital Humanities graduate student at the University of Alberta"
