@@ -4,4 +4,4 @@ excerpt: "A branching essay about Lumina, a fictional productivity app, and the 
 collection: portfolio
 ---
 
-[Play here](https://fujaelsuhag.github.io/me/files/The Algorithm Knows.html) 
+[Play here](https://fujaelsuhag.github.io/me/files/the_agorithm_knows_modified.html) 
