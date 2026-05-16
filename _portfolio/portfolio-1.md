@@ -1,6 +1,6 @@
 ---
 title: "Polished Experiment"
-excerpt: "A branching essay about Lumina, a fictional productivity app, and the quiet ways we surrender more than we mean to. Built in Twine"
+excerpt: "The Algorithm Knows", a branching essay about Lumina, a fictional productivity app, and the quiet ways we surrender more than we mean to. Built in Twine"
 collection: portfolio
 ---
 
